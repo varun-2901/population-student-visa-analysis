@@ -251,6 +251,7 @@ html_content <- paste('
             <h1>📊 Australian Student Visa Analysis</h1>
             <p>Time-Series Forecasting & Trend Analysis</p>
             <p style="margin-top: 20px; font-size: 1em;">Comprehensive 21-Year Analysis with 3-Year Forecast</p>
+            <p style="margin-top: 15px; font-size: 0.95em; opacity: 0.9;">By Varun Sridhar</p>
             <div class="timestamp">Report Generated: ', format(Sys.time(), "%d %B %Y at %H:%M:%S"), '</div>
         </header>
         
