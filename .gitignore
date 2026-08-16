@@ -1,0 +1,18 @@
+# R files
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Mac files
+.DS_Store
+.Trash/
+
+# Data files (optional - remove if you want to track these)
+data/raw/*.xlsx
+data/raw/*.xls
+
+# Python
+__pycache__/
+*.pyc
+.env
